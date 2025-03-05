@@ -28,7 +28,6 @@ Demonstration for students how to create a GitHub profile.
 
 
 # Simple Profile Template
-TODO
 ```markdown
 # Hello, I'm <FirstName LastName>
 Welcome to my GitHub profile....
