@@ -19,6 +19,10 @@ Demonstration for students how to create a GitHub profile.
     * Add some badges to show your preferences:
         * https://home.aveek.io/GitHub-Profile-Badges/
         * https://github.com/alexandresanlim/Badges4-README.md-Profile
+    * Maybe you want to generate your own Octocat (GitHub logo animal) that represents you.
+        * Generate at https://myoctocat.com/
+        * Download the result and upload with drag-and-drop to your repo in the web browser.
+        * Insert the image in your README.md with something like `![My Octocat](my_octocat.png)`.
 1. When done: make sure to run your text though a [spell checker](https://languagetool.org/). Paste in your whole markdown text.
 
 
@@ -31,6 +35,9 @@ Welcome to my GitHub profile....
 
 
 ## About me
+[![](https://img.shields.io/badge/Music-Rock-informational?style=flat&&color=2bbc8a&logo=applemusic)](#)
+
+
 I like to play sports...
 My favoutine mobile app is....
 I know the following programming languages...
