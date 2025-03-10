@@ -1,4 +1,4 @@
-# GitHub Profile Demo
+# GitHub Profile Workshop
 Demonstration for students how to create a GitHub profile.
 
 # Steps
