@@ -2,6 +2,9 @@
 Demonstration for students on how to create a GitHub profile.
 
 # Steps
+
+**First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
+
 Check off tasks as you complete them.
 - [ ] Go to [github.com](https://github.com) > click your profile picture (top right corner) > Your Profile
     * In the left sidebar tap "Edit profile" and set:
