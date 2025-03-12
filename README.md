@@ -20,8 +20,8 @@ Demonstration for students on how to create a GitHub profile.
     * Repository name: **exactly** the same name as your GitHub username.
     * Initialize this repository with: check "Add a README file"
     * Leave all others to default and press "Create repository".
-- [ ] Edit your profile `README.md` in your new repo `https://github.com/your_username/your_username`
-    - [ ] Copy the template
+- [x] Edit your profile `README.md` in your new repo `https://github.com/your_username/your_username`
+    - [x] Copy the template
        * Click the :pencil2: icon on the `README.md` below the file list to start editing the file right in your browser.
          * Remember to publish your edits from time to time by pressing the "Commit changes" button in the top right corner.
        * Start with the template below. Copy it to your `README.md`.
