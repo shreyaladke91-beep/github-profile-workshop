@@ -6,9 +6,11 @@ Demonstration for students how to create a GitHub profile.
 1. Click your profile picture (top right corner) > Your Profile
     * In the left sidebar tap "Edit profile" and set:
        1. Profile picture. Use a real professional picutre, a cartoon that represents you, or use some AI image tool to generate a cartoon version from a real photo of you.
-          * Generate many different professiona profile pictures from realpicture with [newprofilepic.com](https://newprofilepic.com/)
-          * Cartoonize by [fotor](https://www.fotor.com/features/photo-to-cartoon/).
-          * Cartoon by [picsart](https://picsart.com/photo-effects/photo-to-cartoon/).
+            * Have no photo of you on the computer/web? Take a new photo or existing and upload to [tmpfiles](https://tmpfiles.org/). The open upload URL on the computer.
+            * Image tools:
+               * Generate many different professiona profile pictures from realpicture with [newprofilepic.com](https://newprofilepic.com/)
+               * Cartoonize by [fotor](https://www.fotor.com/features/photo-to-cartoon/)
+               * Cartoon by [picsart](https://picsart.com/photo-effects/photo-to-cartoon/)
        3. About me
        4. Other data like links to social profiles (LinkedIn, Twitter, ...)
 1. In the top right toolbar: click "+" > "New repository". Enter the following data:
