@@ -16,7 +16,7 @@ Demonstration for students on how to create a GitHub profile.
             * Cartoon by [picsart](https://picsart.com/photo-effects/photo-to-cartoon/)
        - [x] About me
        - [x] Other data like links to social profiles (LinkedIn, Twitter, ...)
-- [ ] In the top right toolbar: click "+" > "New repository". Enter the following data:
+- [x] In the top right toolbar: click "+" > "New repository". Enter the following data:
     * Repository name: **exactly** the same name as your GitHub username.
     * Initialize this repository with: check "Add a README file"
     * Leave all others to default and press "Create repository".
