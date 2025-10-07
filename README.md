@@ -6,7 +6,7 @@ Demonstration for students on how to create a GitHub profile.
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
 *Then in your own fork:* Check off the tasks below as you complete them:
-- [x] Go to [github.com](https://github.com) > click your profile picture (top right corner) > Your Profile
+- [] Go to [github.com](https://github.com) > click your profile picture (top right corner) > Your Profile
     * In the left sidebar tap "Edit profile" and set:
       - [x] Profile picture. Use a real professional picture, a cartoon that represents you, or use some AI image tool to generate a cartoon version from a real photo of you.
          * Have no photo of you on the computer/web? Take a new photo or an existing one and upload it to [tmpfiles](https://tmpfiles.org/). The open upload URL on the computer.
